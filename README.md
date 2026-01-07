@@ -1,2 +1,2 @@
 # goit-algo-hw-03
-For homeworks module 3
+## For homeworks module 3
